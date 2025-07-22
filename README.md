@@ -1,6 +1,6 @@
 # 🍽️ What's In My Fridge
 
-An AI-powered app that helps you track what's in your fridge 🍎🥦 and suggests recipes 🍳 based on your ingredients — now with computer vision to detect items using your camera! 📸
+An AI-powered app that helps you track what's in your fridge 🍎🥦 and suggests recipes 🍳 based on your ingredients, now with computer vision to detect items using your camera! 📸
 
 ## ✨ Features
 
@@ -16,4 +16,4 @@ An AI-powered app that helps you track what's in your fridge 🍎🥦 and sugges
 - **Backend:** 🟩 Node.js, 🚂 Express
 - **Database:** 🍃 MongoDB
 - **Machine Learning / Computer Vision:** 🧠 TensorFlow, OpenCV
-- **APIs:** 🥄 Spoonacular API (optional for recipes)
+- **APIs:** 🥄 Spoonacular API
