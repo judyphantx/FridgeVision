@@ -17,3 +17,14 @@ An AI-powered app that helps you track what's in your fridge 🍎🥦 and sugges
 - **Database:** 🍃 MongoDB
 - **Machine Learning / Computer Vision:** 🧠 TensorFlow, OpenCV
 - **APIs:** 🥄 Spoonacular API
+
+## Setup
+
+1. Install Anaconda from https://www.anaconda.com/download
+2. Open Anaconda Prompt
+3. Navigate to project folder: `cd path/to/FridgeVision`
+4. Install dependencies:
+```
+   pip install tensorflow opencv-python
+```
+5. Run the project: `python main.py`
